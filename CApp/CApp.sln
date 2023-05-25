@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CApp", "CApp\CApp.csproj", "{EA602D80-6D81-4676-95F6-8FCFE90D9D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA602D80-6D81-4676-95F6-8FCFE90D9D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA602D80-6D81-4676-95F6-8FCFE90D9D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA602D80-6D81-4676-95F6-8FCFE90D9D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA602D80-6D81-4676-95F6-8FCFE90D9D13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {248FEF3D-F89B-45BF-A8A2-72195B2AF6CD}
+	EndGlobalSection
+EndGlobal
